@@ -14,7 +14,6 @@ Installers:
   InstallerSha256: 941BEA87EE3824F5C06BBBFFAFAEA2D2DCD17F2ABBBE277F3D16F2F3E9E1FC64
   AppsAndFeaturesEntries:
   - DisplayName: MK212 DriveGlow Version 1.4.0
-    DisplayVersion: 1.4.0
     Publisher: MK212 DriveGlow contributors
     ProductCode: '{94F78708-1EAF-49A4-8EA2-B859B11723D5}_is1'
 ManifestType: installer
